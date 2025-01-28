@@ -15,7 +15,6 @@ O projeto tem como objetivo demonstrar como ferramentas de IA podem ser utilizad
 
 - **ChatGPT**: Responsável pela geração do conteúdo textual do eBook, incluindo título, estrutura e roteirização.
 - **Canva**: Utilizado para a diagramação e criação visual do eBook, garantindo um design minimalista e profissional.
-- **PowerPoint**: Ferramenta auxiliar para ajustes finais de diagramação.
 
 ---
 
