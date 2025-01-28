@@ -7,7 +7,7 @@ O projeto tem como objetivo demonstrar como ferramentas de IA podem ser utilizad
 ---
 
 ## 📕 Clique aqui para ler o eBook
-(O eBook gerado será adicionado em breve na seção de **assets** deste repositório.)
+[eBook - Como as IAs podem tornar seu dia a dia mais produtivo](https://github.com/ruruluvy/prompts-recipe-to-create-a-ebook/blob/main/eBook%20-%20Como%20as%20IAs%20podem%20tornar%20seu%20dia%20a%20dia%20mais%20produtivo.pdf)
 
 ---
 
@@ -39,7 +39,7 @@ O projeto tem como objetivo demonstrar como ferramentas de IA podem ser utilizad
 ## 📚 Materiais
 
 - O eBook final estará disponível na pasta `assets/`.
-- Todos os arquivos e materiais auxiliares utilizados no projeto serão organizados nas pastas relevantes.
+- Todos os arquivos e materiais auxiliares utilizados no projeto estão organizados nas pastas relevantes.
 
 ---
 
