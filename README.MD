@@ -1,4 +1,4 @@
-# Projeto EBOOK Gerado por I.A.s
+# Projeto eBOOK Gerado por I.A.s
 
 ℹ️ **NOTE:** Este é o repositório desenvolvido durante o Bootcamp da Caixa na plataforma da DIO, onde apliquei os conhecimentos adquiridos para criar um eBook utilizando ferramentas de Inteligência Artificial.
 
@@ -38,8 +38,8 @@ O projeto tem como objetivo demonstrar como ferramentas de IA podem ser utilizad
 
 ## 📚 Materiais
 
-- O eBook final estará disponível na pasta `assets/`.
-- Todos os arquivos e materiais auxiliares utilizados no projeto estão organizados nas pastas relevantes.
+- **eBook - Como as IAs podem tornar seu dia a dia mais produtivo.pdf**: O eBook final está disponível diretamente no repositório.
+- Outros conteúdos baseados no fork original deste repositório estão disponíveis para referência e complementação do projeto.
 
 ---
 
